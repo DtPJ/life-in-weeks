@@ -1,0 +1,240 @@
+#
+# The first event should be birth.
+# The date should match start_date in content/index.md.
+#
+# Template
+#"YYYY-MM-DD":
+#    - headline: ""
+#      description: ""
+#      based: ""
+#      doing: ""
+#      association: ""
+
+# Life events
+"1970-01-26":
+    - headline: "🐣 I was born"
+      description: "Story goes something like speeding through a school zone at 8 in the morning, born three hours later."
+      based: "OKC"
+
+"1970-05-31":
+    - headline: "🐣 PriWiFi was born"
+      description: "My soulmate was born! We finally meet 36 years later."
+
+"1976-08-01":
+    - headline: "📓 Elementary school"
+      description: "Went to Catholic school, with uniforms, mass, and all that. Sang The Beatles in music class."
+      doing: "Student"
+      association: "St. Eugene"
+
+"1984-06-16":
+    - headline: "🎫 First concert"
+      description: "Van Halen 1984 Tour. The Velcros and BTO opened."
+
+"1984-08-01":
+    - headline: "📚 High school"
+      doing: "High school student"
+      association: "John Marshall High School"
+
+"1988-08-01":
+    - headline: "🏫 Left for college"
+      based: "Stillwater"
+      doing: "College Student"
+      association: "Oklahoma State University"
+
+"1990-01-15":
+    - headline: "Transferred to UCO"
+      based: "OKC"
+      doing: "College Student"
+      association: "University of Central Oklahoma"
+
+"1993-05-15":
+    - headline: "🎓 Graduated College"
+      description: "Bachelors of Arts, Journalism-Advertising"
+      association: ""
+
+"1994-05-05":
+    - headline: "I'm in the Army Now!"
+      based: "Fort Jackson"
+      doing: "Training"
+      association: "US Army"
+
+"1994-07-05":
+    - headline: "Advanced Individual Training"
+      description: "Learned my job as an Information Systems Operator, 74D. ADA, JCL, anyone?!"
+      based: "Fort Gordon"
+      doing: "Training"
+      association: "US Army"
+
+"1994-11-05":
+    - headline: "First Duty Station, THE PENTAGON"
+      description: "Assigned to USAISC, working midnight shift in the basement near the East Loading Dock. "
+      based: "Washington DC"
+      doing: "Working"
+      association: "USAISC"
+
+"1997-02-01":
+    - headline: "Promoted to SGT"
+
+"1997-03-15":
+    - headline: "✈ Headed to SHAPE"
+      based: "Belgium"
+      doing: "Working"
+      association: "Squadron C, Regional Signal Group SHAPE"
+
+"1999-01-01":
+    - headline: "Promoted to SSG"
+
+"1999-12-31":
+    - headline: "💥 Y2K"
+      description: "We survived!"
+
+"2000-04-26":
+    - headline: "New CONUS Assignment"
+      based: "Fort Leavenworth"
+      doing: "Working"
+      association: "Directorate of Information Mangement"
+
+"2001-09-11":
+    - headline: "💔 9/11"
+
+"2003-03-24":
+    - headline: "Start of civil service career"
+      based: "Fort Leavenworth"
+      doing: "Working"
+      association: "Directorate of Information Mangement"
+
+"2003-05-01":
+    - headline: "Last Day in the Army!"
+      description: "My last day on active duty. Received my clothing allowance for the year, covering the ammount paid in taxes for selling back unused leave."
+
+"2003-05-21":
+    - headline: "🎓 Graduated"
+      description: "Master's of Arts in Computer Resources and Information Management"
+
+"2007-03-20":
+    - headline: "Don't lose my daughter"
+
+"2010-03-17":
+    - headline: "🚗 First Brand New Car"
+      description: "Received my Retro Stop-Loss pay. Sold Maxima to L&I, called PriWiFi and told her I had no car. Drove to the dealer and bought my first brand new car. Acura TSX (Tess)! 6-speed MT, all black! My very own TIE Fighter."
+
+"2010-04-15":
+    - headline: "💝 Syd Vicious!"
+      description: "Side of the road Syd, (AKA Cmdr Rulu of the Starship Dipshit, Sydney) made his way into our hearts."
+
+"2010-12-02":
+    - headline: "🚗 Damaged Tess"
+      description: "Hit a deer on the way home from KC. Just turned 3,000 miles earlier in the evening. No one beside the deer was hurt. $10k to repair Tess."
+
+"2010-12-09":
+    - headline: "💔 Lost Dad"
+      description: "Miss you every day."
+
+"2013-05-01":
+    - headline: "🎓 Graduated, Again"
+      description: "Master's of Business Administration"
+
+"2013-11-15":
+    - headline: "💍 Married PriWiFi"
+      description: "Best day ever!"
+
+"2014-03-15":
+    - headline: "New job in Monterey"
+      description: "Started new job as Division Manager at Presidio of Monterey."
+      based: "Monterey"
+      doing: "Working"
+      association: "Network Enterprise Center"
+
+"2018-04-15":
+    - headline: "Another New job in Monterey"
+      description: "Started new job as Cyber Operations Branch Manager at DMDC. Promotion!"
+      based: "Monterey"
+      doing: "Working"
+      association: "Defense Manpower Data Center"
+
+"2019-09-29":
+    - headline: "New Job in PNW"
+      based: "Bremerton"
+      doing: "Working"
+      association: "Puget Sound Naval Shipyard & Intermediate Maintenance Facility"
+
+"2020-03-15":
+    - headline: "🦠 Covid-19"
+      description: "Just a global pandemic."
+
+"2021-01-06":
+    - headline: "Jan. 6th"
+
+"2022-06-19":
+    - headline: "New job as Command ISSM"
+      description: "Started new job as Cybersecurity Division Manger and Command ISSM at PSNS&IMF. Promotion, again!"
+      based: "Bremerton"
+      doing: "Working"
+      association: "Puget Sound Naval Shipyard & Intermediate Maintenance Facility"
+
+"2023-11-15":
+    - headline: "💍 Married 10 years"
+
+"2023-12-15":
+    - headline: "💝 Mr. Kibbins came in from the cold."
+      description: "And he never left."
+
+"2025-05-25":
+    - headline: "💔 Lost Syd"
+      description: "Best dog ever!"
+
+# Movies
+"1977-05-25":
+    - headline: "Star Wars: A New Hope is released"
+"1980-05-21":
+    - headline: "Star Wars: The Empire Strikes Back is released"
+"1981-06-12":
+    - headline: "Raiders of the Lost Ark is released"
+"1983-05-25":
+    - headline: "Star Wars: Return of the Jedi is released"
+"1986-07-02":
+    - headline: "Big Trouble in Little China is released"
+"1988-07-22":
+    - headline: "Die Hard is released"
+"1989-12-01":
+    - headline: "National Lampoon's Christmas Vacation is released"
+"1999-03-31":
+    - headline: "The Matrix is released"
+
+# Chiefs Super Bowls
+"1970-01-11":
+    - headline: "🏆 Chiefs Won Super Bowl IV"
+"2020-02-02":
+    - headline: "🏆 Chiefs Won Super Bowl LIV"
+"2021-02-07":
+    - headline: "Chiefs Lost Super Bowl LV"
+"2023-02-12":
+    - headline: "🏆 Chiefs Won Super Bowl LVII"
+"2024-02-11":
+    - headline: "🏆 Chiefs Won Super Bowl LVIII"
+"2025-02-09":
+    - headline: "Chiefs Lost Super Bowl LIX"
+
+# Presidents
+"1974-08-09":
+    - headline: "🇺🇸 Ford inaugurated"
+"1977-01-20":
+    - headline: "🇺🇸 Carter inaugurated"
+"1981-01-20":
+    - headline: "🇺🇸 Reagan inaugurated"
+"1989-01-20":
+    - headline: "🇺🇸 Daddy Bush inaugurated"
+"1993-01-20":
+    - headline: "🇺🇸 Clinton inaugurated"
+"2001-01-20":
+    - headline: "🇺🇸 Baby Bush inaugurated"
+"2009-01-20":
+    - headline: "🇺🇸 Obama inaugurated"
+"2017-01-20":
+    - headline: "🤮 Orange Julius inaugurated"
+"2021-01-20":
+    - headline: "🇺🇸 Biden inaugurated"
+"2025-01-20":
+    - headline: "🤮 Orange Julius inaugurated"
+      
+
