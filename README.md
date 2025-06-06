@@ -17,7 +17,7 @@ This code was copied and adapted from [Buster Benson](https://busterbenson.com/l
 2. Clone and run locally:
 ```sh
     git clone https://github.com/DtPJ/life-in-weeks-dtpj.git
-    cd life-in-weeks
+    cd life-in-weeks-dtpj
     hugo server -D
 ```
 3. Visit [http://localhost:1313/](http://localhost:1313/).
