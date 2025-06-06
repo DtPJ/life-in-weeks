@@ -10,7 +10,7 @@
 #      doing: ""
 #      association: ""
 
-# Life events
+# My life events
 "1970-01-26":
     - headline: "🐣 I was born"
       description: "Story goes something like speeding through a school zone at 8 in the morning, born three hours later."
@@ -183,6 +183,18 @@
     - headline: "💔 Lost Syd"
       description: "Best dog ever!"
 
+"2025-05-25":
+    - headline: "Made this!"
+      description: "Saw this whille sitting at the car dealer and thought, \"Hey, that's kinda cool.\""
+
+# Famous deaths
+"1994-04-05""
+    - headline: "Kurt Cobain died."
+"2020-10-06":
+    - headline: "Eddie Van Halen died."
+"2017-05-18":
+     - headline: "Chris Cornell died."
+     
 # Movies
 "1977-05-25":
     - headline: "Star Wars: A New Hope is released"
