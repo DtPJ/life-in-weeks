@@ -1,9 +1,9 @@
-baseURL = 'https://weeks.ginatrapani.org/'
+baseURL = 'https://weeks.cyber-otter.com/'
 languageCode = 'en-us'
 title = 'My Life in Weeks'
 disableKinds = ["taxonomy", "taxonomy"]
 enableEmoji = true
-
+serverPort = 56789
 
 [params]
 author = "cyberotter"
